@@ -1,2 +1,2 @@
 # Hola!
-	![imagen portada](portada.jpg)
+	![imagen portada](../portada.jpg)
